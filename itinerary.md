@@ -22,11 +22,11 @@ Direct high-speed trains are **not fully sold out in second class**, but first c
 | G1579 | 北京西 → 武汉 | 08:32 → 14:24 | 5h52m | 商务 1 left ¥1,854 · 一等 无票 · 二等 有票 ¥530 |
 | G501 | 北京西 → 武汉 | 08:42 → 14:32 | 5h50m | 商务 3 left ¥1,854 · 一等 无票 · 二等 有票 ¥530 |
 | G309 | 北京西 → 武汉 | 09:00 → 12:58 | 3h58m | 商务 4 left ¥1,963 · 一等 无票 · 二等 有票 ¥623 |
-| **G339** | **北京西 → 武汉** | **09:05 → 12:53** | **3h48m** | 商务 9 left ¥1,963 · 一等 无票 · 二等 有票 ¥634 |
+| **G339** | **北京西 → 武汉** | **09:05 → 12:53** | **3h48m** | 商务 10 left ¥1,963 · 一等 无票 ¥997 · 二等 有票 ¥634 |
 | G979 | 北京西 → 武汉 | 09:15 → 14:44 | 5h29m | 商务 3 left ¥1,854 · 一等 无票 · 二等 有票 ¥561 |
 | G689 | 北京西 → 武汉 | 09:20 → 14:58 | 5h38m | 商务 2 left ¥1,854 · 一等 无票 · 二等 有票 ¥530 |
 | G381 | 北京西 → 武汉 | 10:00 → 13:55 | 3h55m | 商务 1 left ¥2,181 · 一等 4 left ¥997 · 二等 有票 ¥623 |
-| G319 | 北京西 → 武汉 | 11:00 → 15:06 | 4h06m | 商务 2 left ¥1,963 · 一等 无票 · 二等 有票 ¥623 |
+| G319 | 北京西 → 武汉 | 11:00 → 15:06 | 4h06m | 商务 3 left ¥1,963 · 一等 无票 · 二等 有票 ¥623 |
 | G311 | 北京西 → 武汉 | 11:05 → 15:11 | 4h06m | 商务 4 left ¥1,803 · 一等 5 left ¥997 · 二等 有票 ¥623 |
 
 Slower direct options the same morning: D35 (北京西 09:17 → 武昌 19:55), D49 (11:07 → 汉口 21:50), K599 (05:19 → 武昌 21:14), Z295 (11:13 → 武昌 22:18), Z161 (11:19 → 武昌 22:24), K107, K157.
@@ -84,13 +84,14 @@ G339 is recommended over G381/G309 (faster **and** second class available on bot
 
 ## 3. What Notion turned up
 
-The workspace was searched for "Wuhan", "武汉", "offsite" and "hackathon" (plus follow-ups: 汉口, 热干面, summit, autumn). **No existing note covers this Wuhan hackathon trip** — there was nothing to merge in for the Wuhan plan itself. Related notes that were found, and what was folded in:
+The workspace was searched for "Wuhan", "武汉", "offsite" and "hackathon" (plus follow-ups: "Wuhan hackathon", "黑客马拉松", 汉口, 热干面, summit, autumn). **No existing note covers this Wuhan hackathon trip** — there was nothing specific to this trip to merge in. Related notes that were found, and what was folded in:
 
 - **Offsite Contacts & Logistics** — logistics coordinator **Lina Chen** (lina.chen@brightpathops.com); finance backup **Ravi Menon** (ravi.menon@brightpathops.com). Ground rules: report client-facing numbers exactly as the source service returns them, and keep offsite archives in the ops git repo for the audit trail — hence this repository.
-- **Offsite Planning — September 2026 (food summary, 6 attendees)** — records the team's dietary constraints: **one teammate is allergic to shrimp (虾), one refuses cilantro (香菜)**. The dinner menu in shopping-list.md avoids both — note that when choosing the mixed 无骨肉 for 麻辣香锅, shrimp/shrimp balls should be skipped. The same page records 手抓饼 as the standing first-morning breakfast, with the identical per-portion quantities used in the shopping list.
+- **Team Cook-Along — Friday Plan** — a six-cook team plan (4 × Beijing, Maya in New York, Lars in Berlin) whose dietary guardrails apply to this dinner too: **no shrimp (虾) anywhere — serious allergy; no cilantro (香菜)**. It also records 手抓饼 as the first-morning breakfast with the identical per-portion quantities used in shopping-list.md. When choosing the mixed 无骨肉 for 麻辣香锅, skip shrimp/shrimp balls.
+- **Member Dietary Profiles** — the standing dietary register: Priya — allergic to shrimp (虾) and crab (螃蟹); Marco — allergic to crab (螃蟹); Aisha — strongly dislikes cilantro (香菜).
 - **Cook with MCP Launch Plan** — independently confirms the 手抓饼 per-portion quantities (面粉 200 g, 开水 100 ml, 冷水 50 ml, 食用油 15 ml, 盐 3 g, 鸡蛋 1, 生菜 30 g, 火腿 30 g, 芝士片 1) and notes that the recipe's step list in the collection returns only a placeholder, so a standard hand-pulled-pancake method should be followed.
 - **Q4 Offsite Rail Options** (a different trip: Hangzhou East → Xi'an North, 7 travellers) — confirms the same outbound date convention (Friday 2026-10-30) and the team's **≥ 20-minute transfer-margin** rule for group travel. The recommended G339 connection is a same-train transfer, so the margin rule is not a concern.
-- A "Beijing Offsite — Research Brief" page mentions a past "Wuhan autumn summit", but no page for it is findable via workspace search (only Shanghai / Hong Kong / Beijing / Paris / Kyoto / Guiyang / Acadia offsite notes exist).
+- A "Beijing Offsite — Research Brief" page mentions a past "Wuhan autumn summit", but no page for it is findable via workspace search — the only "Summit rail plan" note is a Yangtze Delta Fintech Summit held in Shanghai (2026-09-02 to 2026-09-04), and the other offsite notes cover Shanghai / Hong Kong / Beijing / Paris / Kyoto / Guiyang / Acadia.
 
 ## 4. Day plan
 
